@@ -1,2 +1,2 @@
-# My-first-repository
-Just practicing
+﻿# My-first-repository
+Hackeando a gabriel
